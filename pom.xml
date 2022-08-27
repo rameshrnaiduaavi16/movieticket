@@ -23,7 +23,7 @@ under the License.
 	<groupId>myicici</groupId>
 	<artifactId>fundstransfer</artifactId>
 	<version>v2</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>Flink Quickstart Job</name>
 	<url>http://www.myorganization.org</url>
